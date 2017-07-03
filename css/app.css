@@ -4743,6 +4743,11 @@ a.thumbnail {
   font-family: 'Playfair Display SC', serif;
   letter-spacing: 0.09375rem; }
 
+.heading {
+  font-weight: 900;
+  letter-spacing: 0.09375rem;
+  text-transform: uppercase; }
+
 .p-0 {
   padding: 0; }
 
