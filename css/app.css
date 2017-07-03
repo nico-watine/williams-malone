@@ -4739,6 +4739,10 @@ a.thumbnail {
 .long-delay {
   animation-delay: 700ms !important; }
 
+.serif {
+  font-family: 'Playfair Display SC', serif;
+  letter-spacing: 0.09375rem; }
+
 .p-0 {
   padding: 0; }
 

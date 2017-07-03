@@ -2,3 +2,7 @@
 @import "typography/_fonts.scss";
 
 
+.serif {
+	font-family: 'Playfair Display SC', serif;
+	letter-spacing: rem-calc(1.5);
+}
