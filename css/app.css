@@ -4743,6 +4743,9 @@ a.thumbnail {
   font-family: 'Playfair Display SC', serif;
   letter-spacing: 0.09375rem; }
 
+.serif.bold {
+  font-weight: 700; }
+
 .heading {
   font-weight: 900;
   letter-spacing: 0.09375rem;
