@@ -4161,6 +4161,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/dist\/img\/index\/header\/splash\/max.jpg": {
+		"ft": 16384,
+		"iS": 99873,
+		"oA": 1,
+		"oAP": "\/dist\/img\/index\/header\/splash\/max.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/dist\/index.php": {
 		"ft": 8192,
 		"oA": 2,
@@ -4214,6 +4224,16 @@
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
+		},
+	"\/img\/index\/header\/splash\/max.jpg": {
+		"ft": 16384,
+		"iS": 99873,
+		"oA": 1,
+		"oAP": "\/img\/index\/header\/splash\/max.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/js\/app-min.js": {
 		"ft": 64,
