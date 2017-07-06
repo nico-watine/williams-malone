@@ -81,3 +81,10 @@ body-class:
 		</div>
 	</div>
 </section>
+<section id="contact" style="background-color: #4A4A4A;">
+	<div class="row" style="padding: 30px 0;">
+		<div class="large-6 large-push-3 columns">
+			<h2 class="serif bold text-center">Get Legal Help Today</h2>
+		</div>
+	</div>
+</section>
