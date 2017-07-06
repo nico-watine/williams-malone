@@ -4125,6 +4125,16 @@
 		"oAP": "\/dist\/404.html",
 		"oF": 0
 		},
+	"\/dist\/css\/app-min.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/dist\/css\/app-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/dist\/css\/app.css": {
 		"aP": 0,
 		"bl": 0,
@@ -4204,16 +4214,6 @@
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
-		},
-	"\/img\/banditos.jpg": {
-		"ft": 16384,
-		"iS": 363627,
-		"oA": 1,
-		"oAP": "\/img\/banditos.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
 		},
 	"\/js\/app-min.js": {
 		"ft": 64,
