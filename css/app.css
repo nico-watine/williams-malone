@@ -888,7 +888,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  background: #fefefe;
+  background: #F1F1F1;
   font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
   line-height: 1.5;
@@ -2358,7 +2358,7 @@ legend {
     margin: 0;
     margin-left: -0.1875rem;
     padding: 0 0.1875rem;
-    background: #fefefe; }
+    background: #F1F1F1; }
 
 select {
   height: 2.4375rem;
@@ -2946,7 +2946,7 @@ select {
   visibility: hidden;
   border: 1px solid #cacaca;
   border-radius: 0;
-  background-color: #fefefe;
+  background-color: #F1F1F1;
   font-size: 1rem; }
   .dropdown-pane.is-open {
     visibility: visible; }
