@@ -28,13 +28,20 @@ body-class:
 		</div>
 	</div>
 </header>
-<section id="about-the-firm" style="padding-top: 32px;">
-	<div class="row">
-		<div class="large-3 large-push-1 columns text-center">
-			<img src="/img/index/about-the-firm/profile-photo.svg" alt="">
+<section id="about-the-firm">
+	<div class="row" style="background-color: #fff; padding: 32px 0;">
+		<div class="large-3 large-push-1 columns text-center" style="padding-top: 32px;">
+			<figure>
+				<img style="margin-bottom: 16px;" src="/img/index/about-the-firm/profile-photo.svg" alt="">
+				<figcaption><em>Terry J. Malone - Lead Partner</em></figcaption>
+			</figure>
 		</div>
 		<div class="large-6 large-push-2 columns end">
 			<h4 class="heading">About the Firm</h4>
+			<h2 class="serif bold">Our Philosophy</h2>
+			<p>We believe in lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+			<h2 class="serif bold">Our History</h2>
+			<p>We first went to court in lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 		</div>
 	</div>
 </section>
