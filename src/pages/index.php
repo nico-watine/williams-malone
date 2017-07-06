@@ -28,3 +28,10 @@ body-class:
 		</div>
 	</div>
 </header>
+<section id="about-the-firm">
+	<div class="row">
+		<div class="large-3 large-push-1 columns text-center">
+			<img src="/img/index/about-the-firm/profile-photo.svg" alt="">
+		</div>
+	</div>
+</section>
