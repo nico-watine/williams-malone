@@ -49,4 +49,21 @@ body-class:
 	<div class="row text-center">
 		<h2 class="serif bold">Areas of Practice</h2>
 	</div>
+	<div class="row expanded collapse">
+		<div class="large-2 large-push-1 columns practiceCard" style="border: 1px solid #957143; background-color: #fff; padding: 30px 10px 0;">
+			
+		</div>
+		<div class="large-2 large-push-1 columns practiceCard" style="border: 1px solid #957143; background-color: #fff; padding: 30px 10px 0;">
+			
+		</div>
+		<div class="large-2 large-push-1 columns practiceCard" style="border: 1px solid #957143; background-color: #fff; padding: 30px 10px 0;">
+			
+		</div>
+		<div class="large-2 large-push-1 columns practiceCard" style="border: 1px solid #957143; background-color: #fff; padding: 30px 10px 0;">
+			
+		</div>
+		<div class="large-2  large-push-1 end columns practiceCard" style="border: 1px solid #957143; background-color: #fff; padding: 30px 10px 0;">
+			
+		</div>
+	</div>
 </section>
