@@ -72,3 +72,10 @@ body-class:
 		</div>
 	</div>
 </section>
+<section id="quote" style="background: rgba(47,47,47,0.70); padding: 100px 0;">
+	<div class="row">
+		<div class="large-10 large-push-1 columns text-center">
+			<h4 style="color: #fff;">We fight for your lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</h4>
+		</div>
+	</div>
+</section>
