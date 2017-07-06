@@ -89,4 +89,5 @@ body-class:
 			<h5 class="heading text-right float-right" style="text-shadow: 0 2px 2px rgba(0,0,0,0.50); color: #fff;">email@williamsmalone.com</h5>
 		</div>
 	</div>
+	<img style="width: 100%;" src="/img/index/contact/static-map.png" alt="">
 </section>
