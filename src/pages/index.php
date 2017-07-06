@@ -51,19 +51,24 @@ body-class:
 	</div>
 	<div class="row expanded collapse">
 		<div class="large-2 large-push-1 columns practiceCard" style="height: 240px; border: 1px solid #957143; background-color: #fff; padding: 30px 10px 0;">
-			<h5 class="heading text-center">Criminal Defense</h5>
+			<h5 style="height: 50px; margin-bottom: 16px;" class="heading text-center">Criminal Defense</h5>
+			<p>Blurb about Criminal Defense practice lorem ipsum dolor filler.</p>
 		</div>
 		<div class="large-2 large-push-1 columns practiceCard" style="height: 240px; border: 1px solid #957143; background-color: #fff; padding: 30px 10px 0;">
-			<h5 class="heading text-center">Civil Litigation</h5>
+			<h5 style="height: 50px; margin-bottom: 16px;" class="heading text-center">Civil Litigation</h5>
+			<p>Blurb about Civil Litigation practice lorem ipsum dolor filler.</p>
 		</div>
 		<div class="large-2 large-push-1 columns practiceCard" style="height: 240px; border: 1px solid #957143; background-color: #fff; padding: 30px 10px 0;">
-			<h5 class="heading text-center">Personal Injury</h5>
+			<h5 style="height: 50px; margin-bottom: 16px;" class="heading text-center">Personal Injury</h5>
+			<p>Blurb about Personal Injury practice lorem ipsum dolor filler.</p>
 		</div>
 		<div class="large-2 large-push-1 columns practiceCard" style="height: 240px; border: 1px solid #957143; background-color: #fff; padding: 30px 10px 0;">
-			<h5 class="heading text-center">Wrongful Death</h5>
+			<h5 style="height: 50px; margin-bottom: 16px;" class="heading text-center">Wrongful Death</h5>
+			<p>Blurb about Wrongful Death practice lorem ipsum dolor filler.</p>
 		</div>
 		<div class="large-2  large-push-1 end columns practiceCard" style="height: 240px; border: 1px solid #957143; background-color: #fff; padding: 30px 10px 0;">
-			<h5 class="heading text-center">Workers Compensation</h5>
+			<h5 style="height: 50px; margin-bottom: 16px;" class="heading text-center">Workers Compensation</h5>
+			<p>Blurb about Workers Compensation practice lorem ipsum dolor filler.</p>
 		</div>
 	</div>
 </section>
