@@ -4751,6 +4751,10 @@ a.thumbnail {
   letter-spacing: 0.09375rem;
   text-transform: uppercase; }
 
+#bodyID-index .contactBar {
+  box-shadow: 0 rem(1) rem(4) 0 rgba(0, 0, 0, 0.37);
+  background: rgba(74, 74, 74, 0.8); }
+
 .p-0 {
   padding: 0; }
 

@@ -5,7 +5,7 @@ description:
 og-title:
 og-description:
 og-image:
-body-id: index
+body-id: bodyID-index
 body-class:
 ---
 <header>

@@ -1,2 +1,9 @@
 @import "../../_settings.scss";
 
+#bodyID-index {
+	.contactBar {
+		box-shadow: $z-1;
+		background: rgba(74,74,74,0.80);
+	}
+}
+
