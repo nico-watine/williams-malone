@@ -50,20 +50,20 @@ body-class:
 		<h2 class="serif bold">Areas of Practice</h2>
 	</div>
 	<div class="row expanded collapse">
-		<div class="large-2 large-push-1 columns practiceCard" style="border: 1px solid #957143; background-color: #fff; padding: 30px 10px 0;">
-			
+		<div class="large-2 large-push-1 columns practiceCard" style="height: 240px; border: 1px solid #957143; background-color: #fff; padding: 30px 10px 0;">
+			<h5 class="heading text-center">Criminal Defense</h5>
 		</div>
-		<div class="large-2 large-push-1 columns practiceCard" style="border: 1px solid #957143; background-color: #fff; padding: 30px 10px 0;">
-			
+		<div class="large-2 large-push-1 columns practiceCard" style="height: 240px; border: 1px solid #957143; background-color: #fff; padding: 30px 10px 0;">
+			<h5 class="heading text-center">Civil Litigation</h5>
 		</div>
-		<div class="large-2 large-push-1 columns practiceCard" style="border: 1px solid #957143; background-color: #fff; padding: 30px 10px 0;">
-			
+		<div class="large-2 large-push-1 columns practiceCard" style="height: 240px; border: 1px solid #957143; background-color: #fff; padding: 30px 10px 0;">
+			<h5 class="heading text-center">Personal Injury</h5>
 		</div>
-		<div class="large-2 large-push-1 columns practiceCard" style="border: 1px solid #957143; background-color: #fff; padding: 30px 10px 0;">
-			
+		<div class="large-2 large-push-1 columns practiceCard" style="height: 240px; border: 1px solid #957143; background-color: #fff; padding: 30px 10px 0;">
+			<h5 class="heading text-center">Wrongful Death</h5>
 		</div>
-		<div class="large-2  large-push-1 end columns practiceCard" style="border: 1px solid #957143; background-color: #fff; padding: 30px 10px 0;">
-			
+		<div class="large-2  large-push-1 end columns practiceCard" style="height: 240px; border: 1px solid #957143; background-color: #fff; padding: 30px 10px 0;">
+			<h5 class="heading text-center">Workers Compensation</h5>
 		</div>
 	</div>
 </section>
