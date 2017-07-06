@@ -4171,6 +4171,17 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/dist\/img\/index\/contact\/static-map.png": {
+		"ft": 32768,
+		"iS": 246923,
+		"oA": 1,
+		"oAP": "\/dist\/img\/index\/contact\/static-map.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/dist\/img\/index\/header\/splash\/max.jpg": {
 		"ft": 16384,
 		"iS": 99873,
@@ -4255,6 +4266,17 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/img\/index\/contact\/static-map.png": {
+		"ft": 32768,
+		"iS": 246923,
+		"oA": 1,
+		"oAP": "\/img\/index\/contact\/static-map.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/img\/index\/header\/splash\/max.jpg": {
 		"ft": 16384,
