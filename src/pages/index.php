@@ -84,7 +84,9 @@ body-class:
 <section id="contact" style="background-color: #4A4A4A;">
 	<div class="row" style="padding: 30px 0;">
 		<div class="large-6 large-push-3 columns">
-			<h2 class="serif bold text-center">Get Legal Help Today</h2>
+			<h2 class="serif bold text-center" style="text-shadow: 0 2px 2px rgba(0,0,0,0.50); color: #fff;">Get Legal Help Today</h2>
+			<h5 class="heading float-left" style="text-shadow: 0 2px 2px rgba(0,0,0,0.50); color: #fff;">123-456-7890</h5>
+			<h5 class="heading text-right float-right" style="text-shadow: 0 2px 2px rgba(0,0,0,0.50); color: #fff;">email@williamsmalone.com</h5>
 		</div>
 	</div>
 </section>
