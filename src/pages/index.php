@@ -18,9 +18,13 @@ body-class:
 		</div>
 	</div>
 	<div class="row">
-		<div class="large-8 columns end text-right">
+		<div class="large-7 columns end text-right">
 			<h1 class="serif bold">Williams-Malone, P.A.</h1>
-			<h3>We provide reliable, trustworthy and successful legal solutions </h3>
+		</div>
+	</div>
+	<div class="row">
+		<div class="large-6 large-push-1 columns end text-right">
+			<h3>We provide reliable, trustworthy and successful legal solutions</h3>
 		</div>
 	</div>
 </header>
