@@ -11,10 +11,10 @@ body-class:
 <header>
 	<div class="row expanded contactBar">
 		<div class="medium-6 columns">
-			<a href="mailto:email@williamsmalone.com">email@williamsmalone.com</a>
+			<h6 class="heading" style="margin: 0;"><a href="mailto:email@williamsmalone.com">email@williamsmalone.com</a></h6>
 		</div>
 		<div class="medium-6 columns text-right">
-			<p>123-456-7891</p>
+			<h6 class="heading" style="margin: 0;">123-456-7891</h6>
 		</div>
 	</div>
 </header>

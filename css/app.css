@@ -4753,6 +4753,7 @@ a.thumbnail {
 
 #bodyID-index .contactBar {
   box-shadow: 0 rem(1) rem(4) 0 rgba(0, 0, 0, 0.37);
+  padding: 0.75rem 0;
   background: rgba(74, 74, 74, 0.8); }
 
 .p-0 {
