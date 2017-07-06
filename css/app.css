@@ -4753,6 +4753,10 @@ a.thumbnail {
 
 #bodyID-index header {
   background: #fff url("/img/index/header/splash/max.jpg") right center/cover no-repeat; }
+  #bodyID-index header h1,
+  #bodyID-index header h3 {
+    text-shadow: 0 2px 2px rgba(0, 0, 0, 0.8);
+    color: #fff; }
 
 #bodyID-index .contactBar {
   box-shadow: 0 rem(1) rem(4) 0 rgba(0, 0, 0, 0.37);
