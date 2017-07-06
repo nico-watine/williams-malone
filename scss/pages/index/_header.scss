@@ -1,6 +1,10 @@
 @import "../../_settings.scss";
 
 #bodyID-index {
+	header {
+		background: #fff url('/img/index/header/splash/max.jpg') right center/cover no-repeat;
+	}
+	
 	.contactBar {
 		box-shadow: $z-1;
 		padding: rem-calc(12) 0;

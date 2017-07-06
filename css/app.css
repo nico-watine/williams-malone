@@ -4751,6 +4751,9 @@ a.thumbnail {
   letter-spacing: 0.09375rem;
   text-transform: uppercase; }
 
+#bodyID-index header {
+  background: #fff url("/img/index/header/splash/max.jpg") right center/cover no-repeat; }
+
 #bodyID-index .contactBar {
   box-shadow: 0 rem(1) rem(4) 0 rgba(0, 0, 0, 0.37);
   padding: 0.75rem 0;
