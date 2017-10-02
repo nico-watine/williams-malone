@@ -4362,16 +4362,6 @@
 		"oAP": "\/dist\/humans.txt",
 		"oF": 0
 		},
-	"\/dist\/img\/banditos.jpg": {
-		"ft": 16384,
-		"iS": 363627,
-		"oA": 1,
-		"oAP": "\/dist\/img\/banditos.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/dist\/img\/index\/about-the-firm\/profile-photo.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -4381,6 +4371,26 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/dist\/img\/index\/areas-of-practice\/law-books-perspective copy.jpg": {
+		"ft": 16384,
+		"iS": 36622,
+		"oA": 1,
+		"oAP": "\/dist\/img\/index\/areas-of-practice\/law-books-perspective copy.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/index\/areas-of-practice\/law-books-perspective.jpg": {
+		"ft": 16384,
+		"iS": 36622,
+		"oA": 1,
+		"oAP": "\/dist\/img\/index\/areas-of-practice\/law-books-perspective.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/dist\/img\/index\/contact\/static-map.png": {
 		"ft": 32768,
@@ -4472,14 +4482,56 @@
 		"sC": 0,
 		"tS": 0
 		},
-	"\/img\/banditos.jpg": {
+	"\/img\/index\/about-the-firm\/profile-photo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/index\/about-the-firm\/profile-photo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/index\/areas-of-practice\/law-books-perspective.jpg": {
 		"ft": 16384,
-		"iS": 363627,
+		"iS": 36622,
 		"oA": 1,
-		"oAP": "\/img\/banditos.jpg",
+		"oAP": "\/img\/index\/areas-of-practice\/law-books-perspective.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/img\/index\/contact\/static-map.png": {
+		"ft": 32768,
+		"iS": 246923,
+		"oA": 1,
+		"oAP": "\/img\/index\/contact\/static-map.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/index\/header\/splash\/max.jpg": {
+		"ft": 16384,
+		"iS": 99873,
+		"oA": 1,
+		"oAP": "\/img\/index\/header\/splash\/max.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/index\/quote\/john-hancock.png": {
+		"ft": 32768,
+		"iS": 11235,
+		"oA": 1,
+		"oAP": "\/img\/index\/quote\/john-hancock.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/js\/app-min.js": {
@@ -4742,6 +4794,32 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/scss\/components\/css\/_fonts.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/index\/_areas-of-practice.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_areas-of-practice.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/pages\/index\/_header.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_header.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1

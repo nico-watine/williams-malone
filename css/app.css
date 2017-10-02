@@ -888,7 +888,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  background: #fefefe;
+  background: #F1F1F1;
   font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
   line-height: 1.5;
@@ -2358,7 +2358,7 @@ legend {
     margin: 0;
     margin-left: -0.1875rem;
     padding: 0 0.1875rem;
-    background: #fefefe; }
+    background: #F1F1F1; }
 
 select {
   height: 2.4375rem;
@@ -2946,7 +2946,7 @@ select {
   visibility: hidden;
   border: 1px solid #cacaca;
   border-radius: 0;
-  background-color: #fefefe;
+  background-color: #F1F1F1;
   font-size: 1rem; }
   .dropdown-pane.is-open {
     visibility: visible; }
@@ -4750,6 +4750,23 @@ a.thumbnail {
   font-weight: 900;
   letter-spacing: 0.09375rem;
   text-transform: uppercase; }
+
+#index.index header {
+  background: #fff url("/img/index/header/splash/max.jpg") right center/cover no-repeat; }
+  #index.index header h1,
+  #index.index header h3 {
+    text-shadow: 0 2px 2px rgba(0, 0, 0, 0.8);
+    color: #fff; }
+
+#index.index .contactBar {
+  box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
+  padding: 0.75rem 0;
+  background: rgba(74, 74, 74, 0.8); }
+  #index.index .contactBar * {
+    color: #fff; }
+
+#areas-of-practice {
+  background: #B39D83 url("/img/index/areas-of-practice/law-books-perspective.jpg") center center/cover no-repeat; }
 
 .padding-0 {
   padding: 0; }

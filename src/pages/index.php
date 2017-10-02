@@ -6,160 +6,88 @@ og-title:
 og-description:
 og-image:
 body-id: index
-body-class:
+body-class: index
 ---
-<div class="row">
-	<div class="large-12 columns">
-		<h1>Welcome to Foundation for Sites</h1>
-	</div>
-</div> 
-
-<div class="row">
-	<img src="/img/banditos.jpg" alt="">
-</div>
-<div class="row">
-	<div class="large-12 columns">
-		<div class="callout">
-			<h3>We&rsquo;re stoked you want to try Foundation! </h3>
-			<p>To get going, this file (index.html) includes some basic styles you can modify, play around with, or totally destroy to get going.</p>
-			<p>Once you've exhausted the fun in this document, you should check out:</p>
-			<div class="row">
-				<div class="large-4 medium-4 columns">
-					<p><a href="http://foundation.zurb.com/docs">Foundation Documentation</a><br />Everything you need to know about using the framework.</p>
-				</div>
-				<div class="large-4 medium-4 columns">
-					<p><a href="http://zurb.com/university/code-skills">Foundation Code Skills</a><br />These online courses offer you a chance to better understand how Foundation works and how you can master it to create awesome projects.</p>
-				</div>
-				<div class="large-4 medium-4 columns">
-					<p><a href="http://foundation.zurb.com/forum">Foundation Forum</a><br />Join the Foundation community to ask a question or show off your knowlege.</p>
-				</div>
-			</div>
-			<div class="row">
-				<div class="large-4 medium-4 medium-push-2 columns">
-					<p><a href="http://github.com/zurb/foundation">Foundation on Github</a><br />Latest code, issue reports, feature requests and more.</p>
-				</div>
-				<div class="large-4 medium-4 medium-pull-2 columns">
-					<p><a href="https://twitter.com/ZURBfoundation">@zurbfoundation</a><br />Ping us on Twitter if you have questions. When you build something with this we'd love to see it (and send you a totally boss sticker).</p>
-				</div>        
-			</div>
+<header>
+	<div class="row expanded contactBar">
+		<div class="medium-6 columns">
+			<h6 class="heading" style="margin: 0;"><a href="mailto:email@williamsmalone.com">email@williamsmalone.com</a></h6>
+		</div>
+		<div class="medium-6 columns text-right">
+			<h6 class="heading" style="margin: 0;">123-456-7891</h6>
 		</div>
 	</div>
-</div>
-
-<div class="row">
-	<div class="large-8 medium-8 columns">
-		<h5>Here&rsquo;s your basic grid:</h5>
-		<!-- Grid Example -->
-
-		<div class="row">
-			<div class="large-12 columns">
-				<div class="primary callout">
-					<p><strong>This is a twelve column section in a row.</strong> Each of these includes a div.callout element so you can see where the columns are - it's not required at all for the grid.</p>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="large-6 medium-6 columns">
-				<div class="primary callout">
-					<p>Six columns</p>
-				</div>
-			</div>
-			<div class="large-6 medium-6 columns">
-				<div class="primary callout">
-					<p>Six columns</p>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="large-4 medium-4 small-4 columns">
-				<div class="primary callout">
-					<p>Four columns</p>
-				</div>
-			</div>
-			<div class="large-4 medium-4 small-4 columns">
-				<div class="primary callout">
-					<p>Four columns</p>
-				</div>
-			</div>
-			<div class="large-4 medium-4 small-4 columns">
-				<div class="primary callout">
-					<p>Four columns</p>
-				</div>
-			</div>
-		</div>
-
-	<hr />
-
-	<h5>We bet you&rsquo;ll need a form somewhere:</h5>
-	
-	<form>
-		<div class="row">
-			<div class="large-12 columns">
-				<label>Input Label</label>
-				<input type="text" placeholder="large-12.columns" />
-			</div>
-		</div>
-		<div class="row">
-			<div class="large-4 medium-4 columns">
-				<label>Input Label</label>
-				<input type="text" placeholder="large-4.columns" />
-			</div>
-			<div class="large-4 medium-4 columns">
-				<label>Input Label</label>
-				<input type="text" placeholder="large-4.columns" />
-			</div>
-			<div class="large-4 medium-4 columns">
-				<div class="row collapse">
-					<label>Input Label</label>
-					<div class="input-group">
-						<input class="input-group-field" type="text" placeholder="input-group" />
-						<span class="input-group-label">.com</span>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="large-12 columns">
-				<label>Select Box</label>
-				<select>
-					<option value="husker">Husker</option>
-					<option value="starbuck">Starbuck</option>
-					<option value="hotdog">Hot Dog</option>
-					<option value="apollo">Apollo</option>
-				</select>
-			</div>
-		</div>
-		<div class="row">
-			<div class="large-6 medium-6 columns">
-				<label>Choose Your Favorite</label>
-				<input type="radio" name="pokemon" value="Red" id="pokemonRed"><label for="pokemonRed">Radio 1</label>
-				<input type="radio" name="pokemon" value="Blue" id="pokemonBlue"><label for="pokemonBlue">Radio 2</label>
-			</div>
-			<div class="large-6 medium-6 columns">
-				<label>Check these out</label>
-				<input id="checkbox1" type="checkbox"><label for="checkbox1">Checkbox 1</label>
-				<input id="checkbox2" type="checkbox"><label for="checkbox2">Checkbox 2</label>
-			</div>
-		</div>
-		<div class="row">
-			<div class="large-12 columns">
-				<label>Textarea Label</label>
-				<textarea placeholder="small-12.columns"></textarea>
-			</div>
-		</div>
-	</form>
-	</div>     
-
-	<div class="large-4 medium-4 columns">
-		<h5>Try one of these buttons:</h5>
-		<p><a href="#" class="small button">Simple Button</a><br/>          
-		<a href="#" class="medium success button">Success Btn</a><br/>
-		<a href="#" class="medium alert button">Alert Btn</a><br/>
-		<a href="#" class="medium secondary button">Secondary Btn</a></p>           
-		<div class="callout">
-			<h5>So many components, girl!</h5>
-			<p>A whole kitchen sink of goodies comes with Foundation. Check out the docs to see them all, along with details on making them your own.</p>
-			<a href="http://foundation.zurb.com/docs/" class="small button">Go to Foundation Docs</a>          
+	<div class="row" style="padding-top: 200px;">
+		<div class="large-8 columns end text-right">
+			<h1 class="serif bold">Williams-Malone, P.A.</h1>
 		</div>
 	</div>
-</div>
+	<div class="row" style="padding-bottom: 200px;">
+		<div class="large-6 large-push-2 columns end text-right">
+			<h3>We provide reliable, trustworthy and successful legal solutions</h3>
+		</div>
+	</div>
+</header>
+<section id="about-the-firm">
+	<div class="row" style="background-color: #fff; padding: 32px 0;">
+		<div class="large-3 large-push-1 columns text-center" style="padding-top: 32px;">
+			<figure>
+				<img style="margin-bottom: 16px;" src="/img/index/about-the-firm/profile-photo.svg" alt="">
+				<figcaption><em>Terry J. Malone - Lead Partner</em></figcaption>
+			</figure>
+		</div>
+		<div class="large-6 large-push-2 columns end">
+			<h4 class="heading">About the Firm</h4>
+			<h2 class="serif bold">Our Philosophy</h2>
+			<p>We believe in lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+			<h2 class="serif bold">Our History</h2>
+			<p>We first went to court in lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+		</div>
+	</div>
+</section>
+<section id="areas-of-practice" style="padding: 40px 0;">
+	<div class="row text-center">
+		<h2 class="serif bold" style="color: #fff; text-shadow: 0 2px 4px rgba(0,0,0,0.80);">Areas of Practice</h2>
+	</div>
+	<div class="row expanded collapse" style="margin: 40px 0;">
+		<div class="large-2 large-push-1 columns practiceCard" style="height: 240px; border: 1px solid #957143; background-color: #fff; padding: 30px 10px 0;">
+			<h5 style="height: 50px; margin-bottom: 16px;" class="heading text-center">Criminal Defense</h5>
+			<p>Blurb about Criminal Defense practice lorem ipsum dolor filler.</p>
+		</div>
+		<div class="large-2 large-push-1 columns practiceCard" style="height: 240px; border: 1px solid #957143; background-color: #fff; padding: 30px 10px 0;">
+			<h5 style="height: 50px; margin-bottom: 16px;" class="heading text-center">Civil Litigation</h5>
+			<p>Blurb about Civil Litigation practice lorem ipsum dolor filler.</p>
+		</div>
+		<div class="large-2 large-push-1 columns practiceCard" style="height: 240px; border: 1px solid #957143; background-color: #fff; padding: 30px 10px 0;">
+			<h5 style="height: 50px; margin-bottom: 16px;" class="heading text-center">Personal Injury</h5>
+			<p>Blurb about Personal Injury practice lorem ipsum dolor filler.</p>
+		</div>
+		<div class="large-2 large-push-1 columns practiceCard" style="height: 240px; border: 1px solid #957143; background-color: #fff; padding: 30px 10px 0;">
+			<h5 style="height: 50px; margin-bottom: 16px;" class="heading text-center">Wrongful Death</h5>
+			<p>Blurb about Wrongful Death practice lorem ipsum dolor filler.</p>
+		</div>
+		<div class="large-2  large-push-1 end columns practiceCard" style="height: 240px; border: 1px solid #957143; background-color: #fff; padding: 30px 10px 0;">
+			<h5 style="height: 50px; margin-bottom: 16px;" class="heading text-center">Workers Compensation</h5>
+			<p>Blurb about Workers Compensation practice lorem ipsum dolor filler.</p>
+		</div>
+	</div>
+</section>
+<section id="quote" style="background: rgba(47,47,47,0.70); padding: 100px 0;">
+	<div class="row">
+		<div class="large-10 large-push-1 columns text-center">
+			<h4 style="color: #fff;">We fight for your lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</h4>
+			<br>
+			<img src="/img/index/quote/john-hancock.png" alt="">
+		</div>
+	</div>
+</section>
+<section id="contact" style="background-color: #4A4A4A;">
+	<div class="row" style="padding: 30px 0;">
+		<div class="large-6 large-push-3 columns">
+			<h2 class="serif bold text-center" style="text-shadow: 0 2px 2px rgba(0,0,0,0.50); color: #fff;">Get Legal Help Today</h2>
+			<h5 class="heading float-left" style="text-shadow: 0 2px 2px rgba(0,0,0,0.50); color: #fff;">123-456-7890</h5>
+			<h5 class="heading text-right float-right" style="text-shadow: 0 2px 2px rgba(0,0,0,0.50); color: #fff;">email@williamsmalone.com</h5>
+		</div>
+	</div>
+	<img style="width: 100%;" src="/img/index/contact/static-map.png" alt="">
+</section>
