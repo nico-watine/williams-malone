@@ -75,7 +75,7 @@ body-class: index
 <section id="we-the-people" style="padding: 100px 0;">
 	<div class="row">
 		<div class="large-10 large-push-1 columns text-center">
-			<h4 style="color: #fff;">We fight for your lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</h4>
+			<h4 style="color: #fff;">Terry requested the "We The People" series be incorporated somehow. I think this is an appropriate place for a stand-out quote from him, followed by signature</h4>
 			<br>
 			<img src="/img/index/we-the-people/john-hancock.png" alt="">
 			<hr style="visibility: hidden;">
