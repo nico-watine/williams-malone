@@ -4751,14 +4751,26 @@ a.thumbnail {
   letter-spacing: 0.09375rem;
   text-transform: uppercase; }
 
-.p-0 {
+.padding-0 {
   padding: 0; }
 
-.m-0 {
+.padding-X {
+  padding: 0 0.9375rem; }
+
+.padding-Y {
+  padding: 0.9375rem 0; }
+
+.padding-XY {
+  padding: 0.9375rem; }
+
+.margin-0 {
   margin: 0; }
 
-.p-x {
-  padding: 0 rem(16); }
+.margin-X {
+  margin: 0 0.9375rem; }
 
-.p-y {
-  padding: rem(16) 0; }
+.margin-Y {
+  margin: 0.9375rem 0; }
+
+.margin-XY {
+  margin: 0.9375rem; }
