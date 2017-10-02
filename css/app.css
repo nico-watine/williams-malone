@@ -4751,18 +4751,18 @@ a.thumbnail {
   letter-spacing: 0.09375rem;
   text-transform: uppercase; }
 
-#bodyID-index header {
+#index.index header {
   background: #fff url("/img/index/header/splash/max.jpg") right center/cover no-repeat; }
-  #bodyID-index header h1,
-  #bodyID-index header h3 {
+  #index.index header h1,
+  #index.index header h3 {
     text-shadow: 0 2px 2px rgba(0, 0, 0, 0.8);
     color: #fff; }
 
-#bodyID-index .contactBar {
+#index.index .contactBar {
   box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37);
   padding: 0.75rem 0;
   background: rgba(74, 74, 74, 0.8); }
-  #bodyID-index .contactBar * {
+  #index.index .contactBar * {
     color: #fff; }
 
 .padding-0 {

@@ -5,8 +5,8 @@ description:
 og-title:
 og-description:
 og-image:
-body-id: bodyID-index
-body-class:
+body-id: index
+body-class: index
 ---
 <header>
 	<div class="row expanded contactBar">
