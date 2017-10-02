@@ -47,7 +47,7 @@ body-class: index
 </section>
 <section id="areas-of-practice" style="padding: 40px 0;">
 	<div class="row text-center">
-		<h2 class="serif bold">Areas of Practice</h2>
+		<h2 class="serif bold" style="color: #fff; text-shadow: 0 2px 4px rgba(0,0,0,0.80);">Areas of Practice</h2>
 	</div>
 	<div class="row expanded collapse" style="margin: 40px 0;">
 		<div class="large-2 large-push-1 columns practiceCard" style="height: 240px; border: 1px solid #957143; background-color: #fff; padding: 30px 10px 0;">
