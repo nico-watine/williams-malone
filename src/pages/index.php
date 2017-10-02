@@ -78,6 +78,8 @@ body-class: index
 			<h4 style="color: #fff;">We fight for your lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</h4>
 			<br>
 			<img src="/img/index/we-the-people/john-hancock.png" alt="">
+			<hr style="visibility: hidden;">
+			<h5 style="color: #fff;">(Have Terry sign his name on paper, and please scan and email to me)</h5>
 		</div>
 	</div>
 </section>
