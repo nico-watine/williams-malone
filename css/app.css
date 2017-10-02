@@ -4774,3 +4774,6 @@ a.thumbnail {
 
 .margin-XY {
   margin: 0.9375rem; }
+
+.inline-block {
+  display: inline-block; }
