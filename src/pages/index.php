@@ -72,6 +72,9 @@ body-class: index
 		</div>
 	</div>
 </section>
+<section id="attorneys-staff" style="background: #F1F1F1; text-align: center;">
+	<img src="/img/index/attorneys-staff/attorneys-staff.png" alt="">
+</section>
 <section id="we-the-people" style="padding: 100px 0;">
 	<div class="row">
 		<div class="large-10 large-push-1 columns text-center">
