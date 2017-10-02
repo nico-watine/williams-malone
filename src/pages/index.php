@@ -77,7 +77,7 @@ body-class: index
 		<div class="large-10 large-push-1 columns text-center">
 			<h4 style="color: #fff;">We fight for your lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</h4>
 			<br>
-			<img src="/img/index/quote/john-hancock.png" alt="">
+			<img src="/img/index/we-the-people/john-hancock.png" alt="">
 		</div>
 	</div>
 </section>
