@@ -45,7 +45,7 @@ body-class: index
 		</div>
 	</div>
 </section>
-<section id="areas-of-practice" style="background: rgba(149,113,67,0.60); padding: 40px 0;">
+<section id="areas-of-practice" style="padding: 40px 0;">
 	<div class="row text-center">
 		<h2 class="serif bold">Areas of Practice</h2>
 	</div>
