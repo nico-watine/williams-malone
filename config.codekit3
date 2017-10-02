@@ -4336,16 +4336,6 @@
 		"oAP": "\/dist\/404.html",
 		"oF": 0
 		},
-	"\/dist\/css\/app-min.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/dist\/css\/app-min-min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"\/dist\/css\/app.css": {
 		"aP": 0,
 		"bl": 0,
@@ -4372,24 +4362,25 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/dist\/img\/index\/areas-of-practice\/law-books-perspective copy.jpg": {
-		"ft": 16384,
-		"iS": 36622,
-		"oA": 1,
-		"oAP": "\/dist\/img\/index\/areas-of-practice\/law-books-perspective copy.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/dist\/img\/index\/areas-of-practice\/law-books-perspective.jpg": {
 		"ft": 16384,
-		"iS": 36622,
+		"iS": 35640,
 		"oA": 1,
 		"oAP": "\/dist\/img\/index\/areas-of-practice\/law-books-perspective.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/dist\/img\/index\/contact\/static-map copy.png": {
+		"ft": 32768,
+		"iS": 246923,
+		"oA": 1,
+		"oAP": "\/dist\/img\/index\/contact\/static-map copy.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/dist\/img\/index\/contact\/static-map.png": {
@@ -4413,15 +4404,25 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/dist\/img\/index\/quote\/john-hancock.png": {
+	"\/dist\/img\/index\/we-the-people\/john-hancock.png": {
 		"ft": 32768,
 		"iS": 11235,
 		"oA": 1,
-		"oAP": "\/dist\/img\/index\/quote\/john-hancock.png",
+		"oAP": "\/dist\/img\/index\/we-the-people\/john-hancock.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/dist\/img\/index\/we-the-people\/we-the-people-banner.jpg": {
+		"ft": 16384,
+		"iS": 194967,
+		"oA": 1,
+		"oAP": "\/dist\/img\/index\/we-the-people\/we-the-people-banner.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/dist\/index.php": {
@@ -4523,15 +4524,25 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/img\/index\/quote\/john-hancock.png": {
+	"\/img\/index\/we-the-people\/john-hancock.png": {
 		"ft": 32768,
 		"iS": 11235,
 		"oA": 1,
-		"oAP": "\/img\/index\/quote\/john-hancock.png",
+		"oAP": "\/img\/index\/we-the-people\/john-hancock.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/img\/index\/we-the-people\/we-the-people-banner.jpg": {
+		"ft": 16384,
+		"iS": 194967,
+		"oA": 1,
+		"oAP": "\/img\/index\/we-the-people\/we-the-people-banner.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/js\/app-min.js": {
@@ -4837,6 +4848,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/scss\/pages\/index\/_we-the-people.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/pages\/css\/_we-the-people.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/scss\/settings\/_custom-settings.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -4888,7 +4912,7 @@
 		},
 	"\/src\/pages\/index.php": {
 		"ft": 8192,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/src\/pages\/index.php",
 		"oF": 0
 		},
