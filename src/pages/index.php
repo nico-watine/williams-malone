@@ -49,7 +49,7 @@ body-class:
 	<div class="row text-center">
 		<h2 class="serif bold">Areas of Practice</h2>
 	</div>
-	<div class="row expanded collapse" style="margin-bottom: 40px;">
+	<div class="row expanded collapse" style="margin: 40px 0;">
 		<div class="large-2 large-push-1 columns practiceCard" style="height: 240px; border: 1px solid #957143; background-color: #fff; padding: 30px 10px 0;">
 			<h5 style="height: 50px; margin-bottom: 16px;" class="heading text-center">Criminal Defense</h5>
 			<p>Blurb about Criminal Defense practice lorem ipsum dolor filler.</p>
